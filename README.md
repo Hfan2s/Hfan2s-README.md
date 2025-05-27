@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael (Hanming) Fan
 
-🎓 Applied Mathematician | 💻 Data Scientist | 🤖 AI Enthusiast | 📊 Financial Analyst  
+🎓 Applied Mathematician | 💻 Data Scientist | 🤖 AI Enthusiast | 📊 Financial Analyst @ Scholastic
 📍 Based in South Carolina | ✉️ fanhanming88@gmail.com  
 
 ---
