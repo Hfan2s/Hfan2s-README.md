@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a data scientist with a background in **Applied Mathematics** (B.S.) and **Data Science** (M.S.). My passion lies in using **machine learning and AI** to solve real-world problems — from improving patient outcomes in healthcare to analyzing financial markets.
+I'm a Financial Analyst with a background in **Applied Mathematics** (B.S.) and **Data Science** (M.S.). My passion lies in using **machine learning and AI** to solve real-world problems — from improving patient outcomes in healthcare to analyzing financial markets.
 
 Currently, I’m:
 - 📊 Working as a Financial Analyst at Scholastic
@@ -45,7 +45,6 @@ Currently, I’m:
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
 - 📧 fanhanming88@gmail.com
-- 🌐 Portfolio (coming soon!)
 
 ---
 
